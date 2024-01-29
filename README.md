@@ -8,3 +8,12 @@ Learning:
 - Input
 - Loops
 - Pointer
+
+## Day 2
+
+Learning:
+- ASCII Char
+- Time Func
+- static_cast
+- nullptr
+- Header File
