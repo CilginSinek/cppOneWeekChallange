@@ -17,3 +17,7 @@ Learning:
 - static_cast
 - nullptr
 - Header File
+
+## Day 5
+Learning:
+- Vector
